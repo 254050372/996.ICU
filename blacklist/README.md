@@ -168,7 +168,7 @@
 |深圳|[深圳聚力创想信息科技有限公司](https://www.qidianla.com/)|------|大小周、加班|[打卡通知1](img/qidianxueyuan1.jpg)、[打卡通知2](img/qidianxueyuan2.jpg)|
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)|
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)|
-|福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外>加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
+|福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年6月17日|单休|亲历+[大小周改单休](img/sbs-大小周改单休.png))|
 |苏州|[顺舟智能](http://www.shuncom.com)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996、9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 |苏州|[凌志软件股份有限公司](http://www.linkstec.com/)|2019年4月|996，9106，9116|[专坑实习生](img/lingzhi1.png)、[看准网](https://www.kanzhun.com/gsr99810c50.html)|
